@@ -55,3 +55,4 @@ def ptt_crawler(board):
 
 
 result = ptt_crawler("Tech_Job")
+print(result)
