@@ -54,5 +54,5 @@ def ptt_crawler(board):
     return article_list
 
 
-result = ptt_crawler("Tech_Job")
+result = ptt_crawler("Stock")
 print(result)
